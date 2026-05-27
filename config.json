@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypync",
+        "uuid": 5069777,
+        "checksum": "r8jwq2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
